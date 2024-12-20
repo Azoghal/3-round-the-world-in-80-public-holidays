@@ -41,3 +41,29 @@ def parse_country_data(filepath):
         return None, None
 
     return date_country_map, all_countries
+
+
+def reformat(filename):
+    try:
+        with open("reformated_"+filename, 'w') as output_file:
+            with open(filename, 'r', encoding='utf-8') as file:
+                for line in file:
+                    line_parts = line.split(",")
+                    if len(line_parts) < 2:
+                        print(f"Error: bad number of parts: {len(line)}") 
+                        return None, None
+
+                    date_month = line_parts[0].strip()
+                    date_day = line_parts[1].strip()
+
+                    countries = [country.strip() for country in line_parts[2:] if country != ""]
+                    if len(countries) == 1 and countries[0]=="":
+                        countries = []
+
+                    output_file.write(f"{date_month}-{int(date_day):02}, {', '.join(countries)}\n")
+    except FileNotFoundError:
+        print(f"Error: File not found: {filename}")
+        return 
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return 

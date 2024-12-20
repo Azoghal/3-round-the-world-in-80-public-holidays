@@ -1,2 +1,4 @@
 *.txt
 __pycache__
+
+!reformated_public_holidays_non_regional_cleaned.txt

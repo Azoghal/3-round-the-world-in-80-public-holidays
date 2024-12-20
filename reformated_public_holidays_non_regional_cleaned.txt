@@ -1,0 +1,365 @@
+Jan-01, Albania, Algeria, American Samoa, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Barbados, Belarus, Belgium, Belize, Bermuda, Bolivia, Bosnia and Herzegovina (FBiH), Botswana, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Bénin, Cambodia, Cameroon, Canada, Cape Verde, Central African Republic, Chad, Chile, China, Colombia, Comoros, Congo (DRC), Congo (Republic), Costa Rica, Croatia, Cuba, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Timor-Leste, Ecuador, El Salvador, Eritrea, Estonia, eSwatini, Fiji, Finland, France, French Guiana (Guyane), French Polynesia, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland (Kalaallit Nunaat), Grenada, Guatemala, Guinea, Equatorial Guinea, Guinea-Bissau, Guyana, Haiti, Holy See (Vatican City), Honduras, Hong Kong, Hungary, Iceland, Indonesia, Iraq, Ireland (Eire), Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kiribati, Kosovo, Kuwait, Kyrgyzstan, Laos, Latvia, Lebanon, Lesotho, Liberia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Madagascar, Malawi, Mali, Malta, Marshall Islands, Mauritania, Mauritius, Mexico, Micronesia (FSM), Moldova, Monaco, Mongolia, Montenegro, Mozambique, Myanmar, Namibia, Nauru, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, North Korea, Norway, Palau, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Portugal, Puerto Rico, Romania, Russia, Rwanda, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and Grenadines, Samoa, San Marino, Sao Tome and Principe, Serbia, Seychelles, Sierra Leone, Singapore, Slovakia, Slovenia, Solomon Islands, Somalia, South Africa, South Korea, South Sudan, Spain, Sudan, Suriname, Sweden, Switzerland, Syria, Sénégal, Taiwan, Tajikistan, Tanzania, Thailand, Togo, Tonga, Trinidad and Tobago, Turkmenistan, Tuvalu, Türkiye, UAE (United Arab Emirates), Uganda, UK (United Kingdom), Uruguay, USA (United States), Uzbekistan, Vanuatu, Venezuela, Vietnam, West Bank and Gaza, Zambia, Zimbabwe, 
+Jan-02, Albania, Armenia, Azerbaijan, Belarus, Bhutan, Bosnia and Herzegovina (FBiH), Botswana, Cuba, Ecuador, Georgia, Haiti, Kazakhstan, Kosovo, Kyrgyzstan, Mauritius, Montenegro, New Zealand, Romania, Russia, Rwanda, Saint Kitts and Nevis, Saint Lucia, Samoa, Serbia, Seychelles, Slovenia, Togo, 
+Jan-03, Azerbaijan, Burkina Faso, Ecuador, Kazakhstan, Kyrgyzstan, Russia, 
+Jan-04, Congo (DRC), Kazakhstan, Kyrgyzstan, Myanmar, 
+Jan-05, Kyrgyzstan, 
+Jan-06, Andorra, Armenia, Austria, Belarus, Colombia, Croatia, Cyprus, Dominican Republic, Finland, Greece, Holy See (Vatican City), Iraq, Italy, Kyrgyzstan, Lebanon, Liechtenstein, Montenegro, Poland, Puerto Rico, Romania, Russia, San Marino, Slovakia, Spain, Sweden, 
+Jan-07, Belarus, Cambodia, Egypt, Eritrea, Ethiopia, Georgia, Ghana, Kazakhstan, Kosovo, Kyrgyzstan, Macedonia, Moldova, Montenegro, Romania, Russia, Serbia, Sudan, 
+Jan-08, Moldova, Montenegro, Russia
+Jan-09, Bénin, Panama
+Jan-10, Bahamas, Bénin
+Jan-11, Morocco, Nepal, Oman
+Jan-12, Algeria, Oman, Tanzania
+Jan-13, Cape Verde, Japan, Sri Lanka
+Jan-14, Iran, Mali, Morocco, Nepal, Sri Lanka, Vanuatu
+Jan-15, Belize, Malawi
+Jan-16, Congo (DRC)
+Jan-17, Congo (DRC)
+Jan-18, 
+Jan-19, Eritrea, Ethiopia, Georgia
+Jan-20, American Samoa, Cape Verde, Guinea-Bissau, Mali, USA (United States)
+Jan-21, Barbados, Dominican Republic
+Jan-22, Bolivia
+Jan-23, 
+Jan-24, Romania
+Jan-25, Egypt, Taiwan, Vietnam
+Jan-26, Australia, Dominican Republic, India, Taiwan, Uganda, Vietnam
+Jan-27, Australia, Brunei, Comoros, Djibouti, Indonesia, Monaco, Oman, Taiwan, Vietnam, West Bank and Gaza
+Jan-28, Armenia, China, Iran, South Korea, Taiwan, Vietnam
+Jan-29, Azerbaijan, Brunei, China, Hong Kong, Indonesia, Malaysia, Mauritius, Myanmar, Nepal, North Korea, Philippines, Singapore, South Korea, Suriname, Taiwan, Vietnam
+Jan-30, Bhutan, China, Hong Kong, Kuwait, Malaysia, Nepal, Singapore, South Korea, Taiwan, Vietnam
+Jan-31, China, Hong Kong, Nauru, Taiwan, Vietnam
+Feb-01, China, Mauritius, Nauru, Rwanda, Taiwan, Vietnam
+Feb-02, China, Liechtenstein, Taiwan, Vietnam
+Feb-03, Angola, China, Ireland (Eire), Mexico, Mozambique, Nauru, Rwanda, Sao Tome and Principe
+Feb-04, Angola, China, Sri Lanka
+Feb-05, Burundi, Pakistan, San Marino
+Feb-06, New Zealand, 
+Feb-07, Grenada
+Feb-08, North Korea, Slovenia
+Feb-09, Lebanon
+Feb-10, Iran, Malta
+Feb-11, Cameroon, Holy See (Vatican City), Japan, Liberia, Mauritius, Qatar
+Feb-12, Myanmar, North Korea, Sri Lanka, Thailand
+Feb-13, 
+Feb-14, Afghanistan, Iran, Lebanon
+Feb-15, Serbia
+Feb-16, Lithuania, North Korea, Serbia, Uganda
+Feb-17, American Samoa, Gibraltar, Kosovo, Libya, Serbia
+Feb-18, Gambia, Sierra Leone
+Feb-19, Nepal
+Feb-20, 
+Feb-21, Bangladesh, Bhutan, Vanuatu, Zimbabwe
+Feb-22, Bhutan, Russia, Saint Lucia, Saudi Arabia
+Feb-23, Bhutan, Brunei, Guyana, Japan, Russia, 
+Feb-24, Brunei, Estonia, Guyana, Japan, 
+Feb-25, Kuwait
+Feb-26, Kuwait, Mauritius, Nepal, Papua New Guinea, Sri Lanka
+Feb-27, Dominican Republic
+Feb-28, Bhutan, Marshall Islands, Taiwan
+Mar-01, Afghanistan, Bhutan, Maldives, Marshall Islands, Mongolia, South Korea, Uruguay
+Mar-02, Anguilla, Brunei, Ethiopia, Mongolia, Myanmar
+Mar-03, Andorra, Angola, Anguilla, Argentina, Bolivia, Brunei, Bulgaria, Cyprus, Dominica, Timor-Leste, Ecuador, Georgia, Greece, Malawi, Mongolia, Paraguay, South Korea, Venezuela
+Mar-04, Angola, Argentina, Bolivia, Dominica, Ecuador, Haiti, Panama, Venezuela
+Mar-05, French Polynesia, Haiti, Jamaica, Vanuatu
+Mar-06, Ghana, 
+Mar-07, 
+Mar-08, Angola, Armenia, Azerbaijan, Belarus, Burkina Faso, Cambodia, Chad, Eritrea, Georgia, Guinea-Bissau, Kazakhstan, Kyrgyzstan, Laos, Moldova, Mongolia, Nauru, Nepal, North Korea, Russia, Sierra Leone, Syria, Tajikistan, Turkmenistan, Uganda, Ukraine, Uzbekistan, Zambia
+Mar-09, Belize, Russia
+Mar-10, Azerbaijan, Belize, Kazakhstan, Laos, Nauru, Tajikistan, Tuvalu, Ukraine
+Mar-11, Lesotho, Lithuania
+Mar-12, Liberia, Mauritius, Zambia
+Mar-13, Holy See (Vatican City), Myanmar, Sri Lanka
+Mar-14, Albania, Andorra, Guyana, Kiribati, Palau, Saint Vincent and Grenadines, Suriname
+Mar-15, Hungary, Liberia, Palau
+Mar-16, 
+Mar-17, Ireland (Eire), Mexico, 
+Mar-18, Brunei, Comoros
+Mar-19, Holy See (Vatican City), Iran, Libya, Liechtenstein, Malta
+Mar-20, Azerbaijan, Japan, Tunisia
+Mar-21, Azerbaijan, Iran, Iraq, Kazakhstan, Kyrgyzstan, Namibia, South Africa, Syria, Tajikistan, Turkmenistan, Uzbekistan
+Mar-22, Albania, Azerbaijan, Iran, Iran, Kazakhstan, Tajikistan, Turkmenistan
+Mar-23, Angola, Azerbaijan, Iran, Kazakhstan, Pakistan, Tajikistan
+Mar-24, Albania, Argentina, Azerbaijan, Colombia, Iran, Kazakhstan, Tajikistan
+Mar-25, Azerbaijan, Cyprus, Greece, Kazakhstan, Lebanon, San Marino
+Mar-26, Azerbaijan, Bangladesh, Mali, 
+Mar-27, Gambia, Guinea, Myanmar
+Mar-28, Bangladesh, Côte d'Ivoire, Mali, Niger
+Mar-29, Central African Republic, Indonesia, Madagascar, Oman, UAE (United Arab Emirates), West Bank and Gaza, Yemen
+Mar-30, Afghanistan, Albania, Algeria, Azerbaijan, Bahrain, Burkina Faso, Burundi, Bénin, Cameroon, Central African Republic, Chad, Comoros, Côte d'Ivoire, Djibouti, Timor-Leste, Egypt, Eritrea, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Jordan, Kosovo, Kuwait, Kyrgyzstan, Lebanon, Libya, Macedonia, Madagascar, Malawi, Maldives, Mali, Mauritius, Niger, Nigeria, Oman, Qatar, Rwanda, Saudi Arabia, Sierra Leone, South Sudan, Sudan, Suriname, Syria, Sénégal, Tajikistan, Tanzania, Togo, Trinidad and Tobago, Tunisia, Türkiye, UAE (United Arab Emirates), Uganda, Uzbekistan, West Bank and Gaza, Yemen
+Mar-31, Afghanistan, Albania, Algeria, Azerbaijan, Bahrain, Bangladesh, Brunei, Burkina Faso, Burundi, Cameroon, Chad, Comoros, Côte d'Ivoire, Djibouti, Egypt, Ethiopia, Gambia, Guinea, Indonesia, Iran, Iraq, Jordan, Kosovo, Kuwait, Libya, Macedonia, Malawi, Malaysia, Malta, Mauritania, Mauritius, Micronesia (FSM), Morocco, Nigeria, Oman, Pakistan, Philippines, Qatar, Rwanda, Saudi Arabia, Sierra Leone, Singapore, Somalia, Sri Lanka, Sudan, Syria, Sénégal, Tajikistan, Tanzania, Trinidad and Tobago, Tunisia, Turkmenistan, Türkiye, UAE (United Arab Emirates), Uzbekistan, West Bank and Gaza, Yemen
+Apr-01, Afghanistan, Algeria, Azerbaijan, Bahrain, Brunei, Comoros, Cyprus, Gambia, Indonesia, Iran, Iran, Iraq, Jordan, Kenya, Kuwait, Libya, Malaysia, Mauritania, Oman, Pakistan, Qatar, San Marino, Saudi Arabia, Sudan, Syria, Trinidad and Tobago, Tunisia, Türkiye, UAE (United Arab Emirates), Yemen
+Apr-02, Argentina, Brunei, Iran, Pakistan, Saudi Arabia, Sudan
+Apr-03, Taiwan
+Apr-04, Angola, China, Hong Kong, North Korea, Sénégal, Taiwan, Taiwan
+Apr-05, China, Congo (DRC)
+Apr-06, Burundi, China, Congo (DRC), Nepal, Thailand
+Apr-07, Burundi, Mozambique, Rwanda, Tanzania, Thailand, Vietnam
+Apr-08, 
+Apr-09, Georgia, Kosovo, Philippines
+Apr-10, 
+Apr-11, Costa Rica, Kiribati, Liberia
+Apr-12, Sri Lanka
+Apr-13, Israel, Laos, Myanmar, Nepal, Sri Lanka, Thailand
+Apr-14, Cambodia, Honduras, Laos, Myanmar, Sri Lanka, Thailand
+Apr-15, Cambodia, Laos, Myanmar, North Korea, Thailand
+Apr-16, Cambodia, Laos, Myanmar, Thailand
+Apr-17, American Samoa, Argentina, Colombia, Costa Rica, Denmark, El Salvador, Gabon, Greenland (Kalaallit Nunaat), Guatemala, Honduras, Iceland, Laos, Myanmar, Nicaragua, Norway, Paraguay, Peru, Philippines, Spain, Syria, Venezuela, 
+Apr-18, American Samoa, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Bahamas, Barbados, Belize, Bermuda, Bolivia, Botswana, Bulgaria, Cameroon, Canada, Chile, Colombia, Costa Rica, Cuba, Cyprus, Czech Republic, Denmark, Dominica, Dominican Republic, Timor-Leste, Ecuador, El Salvador, Eritrea, Estonia, eSwatini, Ethiopia, Fiji, Finland, French Polynesia, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland (Kalaallit Nunaat), Grenada, Guatemala, Equatorial Guinea, Guyana, Haiti, Honduras, Hong Kong, Hungary, Iceland, Indonesia, Jamaica, Kenya, Kiribati, Latvia, Lebanon, Lesotho, Malawi, Malta, Marshall Islands, Montenegro, Myanmar, Namibia, Nauru, New Zealand, Nicaragua, Nigeria, Norway, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Portugal, Puerto Rico, Romania, Rwanda, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and Grenadines, Samoa, Serbia, Seychelles, Sierra Leone, Singapore, Slovakia, Solomon Islands, South Africa, South Sudan, Spain, Sri Lanka, Suriname, Sweden, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, UK (United Kingdom), Vanuatu, Venezuela, Zambia, Zimbabwe, Zimbabwe, 
+Apr-19, Belize, Botswana, Bulgaria, Chile, El Salvador, eSwatini, Fiji, Georgia, Guatemala, Honduras, Hong Kong, Israel, Lebanon, Malawi, Myanmar, Papua New Guinea, Philippines, Samoa, Serbia, Seychelles, Solomon Islands, South Sudan, Venezuela, Zambia, Zimbabwe
+Apr-20, Albania, Albania, Bulgaria, Croatia, Denmark, Eritrea, Estonia, Ethiopia, Finland, French Polynesia, Georgia, Greece, Greenland (Kalaallit Nunaat), Holy See (Vatican City), Iceland, Indonesia, Italy, Kosovo, Kosovo, Lebanon, Lithuania, Madagascar, Moldova, Myanmar, Namibia, Netherlands, Norway, Papua New Guinea, Poland, Portugal, Romania, San Marino, Serbia, Slovenia, South Sudan, Suriname, Sweden, Syria, Syria, Ukraine, 
+Apr-21, Albania, Albania, Andorra, Anguilla, Antigua and Barbuda, Australia, Austria, Bahamas, Barbados, Belgium, Belize, Botswana, Brazil, Bulgaria, Burkina Faso, Bénin, Central African Republic, Chad, Congo (Republic), Croatia, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Dominica, Egypt, eSwatini, Fiji, Finland, France, French Guiana (Guyane), French Polynesia, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland (Kalaallit Nunaat), Grenada, Guinea, Guyana, Holy See (Vatican City), Hong Kong, Hungary, Iceland, Ireland (Eire), Italy, Jamaica, Kenya, Kiribati, Kosovo, Kosovo, Latvia, Lebanon, Lesotho, Liechtenstein, Lithuania, Luxembourg, Macedonia, Madagascar, Malawi, Mali, Moldova, Monaco, Montenegro, Myanmar, Namibia, Nauru, Netherlands, New Zealand, Niger, Nigeria, Norway, Papua New Guinea, Poland, Romania, Rwanda, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and Grenadines, Samoa, San Marino, Serbia, Seychelles, Sierra Leone, Slovakia, Slovenia, Solomon Islands, South Africa, South Sudan, Suriname, Sweden, Sénégal, Tanzania, Togo, Tonga, Trinidad and Tobago, Tuvalu, Uganda, Ukraine, Vanuatu, Zambia, Zimbabwe, 
+Apr-22, Nauru
+Apr-23, Holy See (Vatican City), Türkiye
+Apr-24, Armenia, Iceland, Iran, Niger
+Apr-25, Australia, Egypt, eSwatini, Italy, New Zealand, North Korea, Portugal, Tonga
+Apr-26, Netherlands, Tanzania
+Apr-27, Netherlands, Sierra Leone, Slovenia, South Africa, Togo
+Apr-28, Afghanistan, Barbados, Belarus, Gibraltar, Moldova, Sierra Leone, South Africa, Zambia
+Apr-29, Belarus, Japan
+Apr-30, Vietnam
+May-01, Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Argentina, Armenia, Austria, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Bolivia, Bosnia and Herzegovina (FBiH), Botswana, Brazil, Bulgaria, Burkina Faso, Burundi, Bénin, Cambodia, Cameroon, Cape Verde, Central African Republic, Chad, Chile, China, Colombia, Comoros, Congo (DRC), Congo (Republic), Costa Rica, Croatia, Cuba, Cyprus, Czech Republic, Côte d'Ivoire, Djibouti, Timor-Leste, Egypt, El Salvador, Eritrea, Estonia, eSwatini, Ethiopia, Finland, France, French Guiana (Guyane), French Polynesia, Gabon, Gambia, Germany, Ghana, Gibraltar, Greece, Grenada, Guatemala, Guinea, Equatorial Guinea, Guinea-Bissau, Guyana, Haiti, Holy See (Vatican City), Honduras, Hong Kong, Hungary, Iceland, Indonesia, Iraq, Israel, Italy, Jordan, Kazakhstan, Kenya, Kiribati, Kosovo, Kyrgyzstan, Laos, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macedonia, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Mauritania, Mauritius, Mexico, Moldova, Monaco, Montenegro, Morocco, Mozambique, Myanmar, Namibia, Nepal, Nicaragua, Niger, Nigeria, North Korea, Norway, Pakistan, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Romania, Russia, Rwanda, Saint Lucia, Saint Vincent and Grenadines, San Marino, Sao Tome and Principe, Serbia, Seychelles, Sierra Leone, Singapore, Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sri Lanka, Suriname, Sweden, Syria, Sénégal, Taiwan, Tajikistan, Tanzania, Togo, Türkiye, Uganda, Ukraine, Uruguay, Vanuatu, Venezuela, Vietnam, West Bank and Gaza, Yemen, Zambia, Zimbabwe, 
+May-02, Angola, Argentina, Bhutan, Bosnia and Herzegovina (FBiH), China, Ecuador, Hungary, Kyrgyzstan, Latvia, Montenegro, Russia, Serbia, Slovenia, Vietnam
+May-03, China, Japan, Kyrgyzstan, Poland, Russia
+May-04, China, Japan, Kyrgyzstan, Latvia, Lebanon, Lithuania, Namibia, Russia, Thailand
+May-05, Antigua and Barbuda, China, Dominica, Dominican Republic, Ethiopia, Guyana, Hong Kong, Ireland (Eire), Japan, Kyrgyzstan, Latvia, Namibia, Netherlands, Palau, Saint Kitts and Nevis, South Korea, South Korea, Thailand, UK (United Kingdom)
+May-06, Bulgaria, Japan, Kyrgyzstan, South Korea, Syria
+May-07, Bhutan, Kazakhstan, Kyrgyzstan
+May-08, Czech Republic, France, French Guiana (Guyane), French Polynesia, Kyrgyzstan, Russia, Slovakia, Ukraine, 
+May-09, Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kosovo, Kyrgyzstan, Luxembourg, Micronesia (FSM), Moldova, Russia, Tajikistan, Uzbekistan
+May-10, El Salvador, Micronesia (FSM), Russia
+May-11, Bangladesh, Cambodia, Lebanon, Myanmar, Russia, Thailand
+May-12, Fiji, Georgia, Indonesia, Malaysia, Nepal, Philippines, Samoa, Singapore, Sri Lanka, Thailand, Tuvalu
+May-13, Sri Lanka
+May-14, Cambodia, Liberia, Malawi, Paraguay
+May-15, Burkina Faso, Cambodia, Paraguay, Venezuela
+May-16, South Sudan
+May-17, Congo (DRC), Georgia, Nauru, Norway, 
+May-18, Haiti, Turkmenistan
+May-19, Canada, Nauru, Türkiye
+May-20, Cameroon, Timor-Leste
+May-21, Chile, Montenegro, Saint Vincent and Grenadines
+May-22, Montenegro, Yemen
+May-23, Bermuda, Ecuador, Jamaica
+May-24, Bulgaria, Ecuador, Eritrea, Macedonia
+May-25, Argentina, Gambia, Guinea, Jordan, Lesotho, Mali, Mauritania, Namibia, Zambia, Zimbabwe
+May-26, American Samoa, Bulgaria, Gambia, Georgia, Gibraltar, Guyana, Namibia, UK (United Kingdom), USA (United States), Zambia, Zimbabwe
+May-27, 
+May-28, Armenia, Azerbaijan, Ethiopia, Namibia, Nepal, 
+May-29, Austria, Belgium, Botswana, Burkina Faso, Burundi, Bénin, Cameroon, Central African Republic, Congo (Republic), Côte d'Ivoire, Denmark, eSwatini, Finland, France, French Guiana (Guyane), French Polynesia, Gabon, Germany, Greenland (Kalaallit Nunaat), Iceland, Indonesia, Lesotho, Liechtenstein, Luxembourg, Madagascar, Monaco, Namibia, Netherlands, Norway, Sweden, Switzerland, Sénégal, Togo, Vanuatu, 
+May-30, Anguilla, Croatia, Fiji, Nicaragua, Taiwan, Trinidad and Tobago
+May-31, Brunei, China, Hong Kong, Taiwan
+Jun-01, Cape Verde, China, Indonesia, Lithuania, Moldova, Mongolia, Palau, Romania, Samoa
+Jun-02, China, Colombia, Ireland (Eire), Israel, Italy, Kenya, Malaysia, New Zealand, Palau, Samoa, Thailand, Tonga
+Jun-03, Thailand, Uganda
+Jun-04, Iran
+Jun-05, Afghanistan, Djibouti, Egypt, Equatorial Guinea, Iran, Jordan, Libya, Maldives, Oman, Qatar, Saudi Arabia, Sudan, UAE (United Arab Emirates), Yemen
+Jun-06, Afghanistan, Albania, Algeria, Azerbaijan, Bahamas, Bahrain, Burkina Faso, Burundi, Bénin, Cameroon, Central African Republic, Chad, Comoros, Côte d'Ivoire, Djibouti, Timor-Leste, Egypt, Eritrea, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Indonesia, Iran, Jordan, Kazakhstan, Kosovo, Kuwait, Kyrgyzstan, Lebanon, Libya, Madagascar, Maldives, Niger, Nigeria, North Korea, Oman, Philippines, Qatar, Rwanda, Saudi Arabia, Sierra Leone, South Korea, South Sudan, Sudan, Suriname, Sweden, Syria, Sénégal, Tajikistan, Tanzania, Togo, Tunisia, Türkiye, UAE (United Arab Emirates), Uganda, Uzbekistan, West Bank and Gaza, Yemen
+Jun-07, Afghanistan, Algeria, Azerbaijan, Bahrain, Bangladesh, Brunei, Comoros, Djibouti, Egypt, Ethiopia, Gambia, Guinea, Guyana, Iraq, Jordan, Kenya, Kuwait, Libya, Malaysia, Mali, Malta, Mauritania, Morocco, Myanmar, Niger, Nigeria, Oman, Pakistan, Peru, Qatar, Saudi Arabia, Singapore, Somalia, Sri Lanka, Sudan, Syria, Tunisia, Turkmenistan, Türkiye, UAE (United Arab Emirates), West Bank and Gaza, Yemen
+Jun-08, Afghanistan, Bahrain, Burundi, Denmark, Estonia, Finland, French Polynesia, Gabon, Greece, Greenland (Kalaallit Nunaat), Iceland, Iraq, Jordan, Libya, Madagascar, Mauritania, Netherlands, Norway, Oman, Pakistan, Poland, Romania, Saudi Arabia, Slovenia, Sudan, Sweden, Syria, Türkiye, UAE (United Arab Emirates), Ukraine, West Bank and Gaza, Yemen, 
+Jun-09, Andorra, Anguilla, Antigua and Barbuda, Austria, Azerbaijan, Bahamas, Barbados, Belgium, Burundi, Bénin, Central African Republic, Congo (Republic), Cyprus, Côte d'Ivoire, Denmark, Dominica, France, French Guiana (Guyane), French Polynesia, Gabon, Gambia, Germany, Greece, Greenland (Kalaallit Nunaat), Grenada, Hungary, Iceland, Iraq, Jordan, Liechtenstein, Luxembourg, Madagascar, Monaco, Netherlands, Norway, Romania, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and Grenadines, Solomon Islands, Sudan, Syria, Sénégal, Togo, Türkiye, Uganda, Ukraine, Yemen, 
+Jun-10, Congo (Republic), French Guiana (Guyane), Iraq, Portugal, Sri Lanka
+Jun-11, Bhutan, Mongolia
+Jun-12, Nigeria, Philippines, Russia
+Jun-13, Russia
+Jun-14, Iran, Iraq, Russia, Tuvalu
+Jun-15, Azerbaijan, Russia
+Jun-16, Anguilla, Argentina, Azerbaijan, Bermuda, Gibraltar, Paraguay, Solomon Islands, South Africa
+Jun-17, El Salvador, Iceland, Papua New Guinea
+Jun-18, Cambodia, Seychelles
+Jun-19, Austria, Bolivia, Croatia, Dominican Republic, Timor-Leste, Grenada, Equatorial Guinea, Haiti, Liechtenstein, Monaco, Poland, Portugal, Saint Lucia, San Marino, Seychelles, Trinidad and Tobago
+Jun-20, Argentina, Chile, Eritrea, New Zealand, Trinidad and Tobago, 
+Jun-21, Bolivia, Finland, Sweden, Togo, 
+Jun-22, Croatia
+Jun-23, Colombia, Estonia, Latvia, Luxembourg, 
+Jun-24, Estonia, Latvia, Lithuania, Venezuela
+Jun-25, Mozambique, Slovenia
+Jun-26, Algeria, Azerbaijan, Bahrain, Comoros, Djibouti, Egypt, Jordan, Kuwait, Lebanon, Libya, Madagascar, Niger, Oman, Somalia, Sudan, Suriname, Syria, Tunisia, UAE (United Arab Emirates), West Bank and Gaza, Yemen
+Jun-27, Brunei, Djibouti, Indonesia, Iraq, Malaysia, Mauritania, Morocco, Tajikistan
+Jun-28, Brunei, Djibouti, Ukraine
+Jun-29, Chile, Chile, Malta, Peru, Seychelles
+Jun-30, Central African Republic, Colombia, Colombia, Congo (DRC), Guatemala, Seychelles, Ukraine
+Jul-01, Botswana, Burundi, Canada, Hong Kong, Nauru, Rwanda, Somalia, Suriname
+Jul-02, 
+Jul-03, Belarus, Egypt, 
+Jul-04, American Samoa, Belarus, Marshall Islands, Rwanda, Tonga, USA (United States), 
+Jul-05, Algeria, Algeria, Armenia, Bahrain, Bhutan, Cape Verde, Czech Republic, Gambia, Iran, Lebanon, Pakistan, Slovakia, Sénégal, Venezuela
+Jul-06, Bahrain, Comoros, Czech Republic, Iran, Kazakhstan, Lithuania, Malawi, Mali, Pakistan, Somalia
+Jul-07, Gambia, Guyana, Iraq, Kazakhstan, Malawi, Saint Vincent and Grenadines, Solomon Islands, Tanzania, Zambia
+Jul-08, Saint Vincent and Grenadines, Zambia
+Jul-09, Argentina, Myanmar, Palau, South Sudan
+Jul-10, Bahamas, Kiribati, Sri Lanka, Thailand
+Jul-11, Kiribati, Mongolia
+Jul-12, Kiribati, Mongolia, Sao Tome and Principe
+Jul-13, Mongolia, Montenegro
+Jul-14, France, French Guiana (Guyane), French Polynesia, Iraq, Mongolia, Montenegro, 
+Jul-15, Brunei, Mongolia, Montenegro, Türkiye, Ukraine
+Jul-16, Chile
+Jul-17, Lesotho
+Jul-18, Uruguay
+Jul-19, Myanmar, Nicaragua
+Jul-20, Colombia, Laos, 
+Jul-21, Belgium, Botswana, Japan, Laos
+Jul-22, Botswana, eSwatini, Gambia
+Jul-23, Papua New Guinea, Peru
+Jul-24, Egypt, Vanuatu, Venezuela
+Jul-25, Costa Rica, Cuba, Tunisia
+Jul-26, Cuba, Liberia, Maldives, Niger
+Jul-27, Cuba, North Korea, Philippines
+Jul-28, Bhutan, Cuba, Peru, San Marino, Thailand
+Jul-29, Peru, 
+Jul-30, Morocco, South Sudan, Vanuatu
+Jul-31, Bermuda
+Aug-01, Barbados, Belize, Bermuda, Bénin, Congo (DRC), Guyana, Jamaica, Kiribati, Rwanda, Saint Lucia, Saint Vincent and Grenadines, Switzerland, Trinidad and Tobago, 
+Aug-02, Congo (DRC), Costa Rica, Macedonia
+Aug-03, Equatorial Guinea, Guinea-Bissau, Niger
+Aug-04, Anguilla, Antigua and Barbuda, Bahamas, Barbados, Canada, Dominica, Ghana, Grenada, Equatorial Guinea, Ireland (Eire), Saint Kitts and Nevis, Tuvalu, Zambia
+Aug-05, Antigua and Barbuda, Burkina Faso, Croatia, Saint Kitts and Nevis
+Aug-06, Bolivia, El Salvador, Jamaica, Peru
+Aug-07, Anguilla, Colombia, Côte d'Ivoire
+Aug-08, Anguilla, Sri Lanka, Tanzania
+Aug-09, Nepal, Singapore, South Africa, Suriname
+Aug-10, Ecuador
+Aug-11, Chad, Ecuador, Grenada, Japan, Samoa, Thailand, Zimbabwe
+Aug-12, Grenada, Sénégal, Thailand, Zimbabwe
+Aug-13, Central African Republic
+Aug-14, Iran, Morocco, Pakistan
+Aug-15, Afghanistan, Andorra, Argentina, Austria, Belgium, Burkina Faso, Burundi, Bénin, Cameroon, Cape Verde, Central African Republic, Chile, Congo (Republic), Costa Rica, Croatia, Cyprus, Côte d'Ivoire, France, French Guiana (Guyane), French Polynesia, Gabon, Gambia, Greece, Guinea, Equatorial Guinea, Haiti, Holy See (Vatican City), India, Iraq, Italy, Lebanon, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malta, Monaco, North Korea, Paraguay, Poland, Portugal, Romania, Rwanda, San Marino, Seychelles, Slovenia, South Korea, Spain, Sénégal, Togo, Vanuatu, 
+Aug-16, Bangladesh, Dominican Republic, Gabon, Holy See (Vatican City), Nepal
+Aug-17, Argentina, Gabon, Indonesia
+Aug-18, Colombia
+Aug-19, Afghanistan, Nauru
+Aug-20, Estonia, Hungary, Morocco
+Aug-21, Morocco, Philippines
+Aug-22, Iran
+Aug-23, 
+Aug-24, Iran, Liberia, Maldives, Ukraine
+Aug-25, Gibraltar, Liberia, North Korea, Philippines, Ukraine, Uruguay
+Aug-26, Namibia, Papua New Guinea
+Aug-27, Moldova
+Aug-28, Georgia, Mauritius
+Aug-29, Slovakia
+Aug-30, Timor-Leste, Gabon, Kazakhstan, Peru, Türkiye
+Aug-31, Afghanistan, Costa Rica, Kyrgyzstan, Malaysia, Moldova, Trinidad and Tobago
+Sep-01, American Samoa, Bermuda, Canada, Eritrea, eSwatini, Iran, Kazakhstan, Palau, Trinidad and Tobago, USA (United States), Uzbekistan, Vietnam, 
+Sep-02, Vietnam
+Sep-03, San Marino, 
+Sep-04, Afghanistan, Algeria, Bahrain, Burkina Faso, Bénin, Cameroon, Chad, Comoros, Djibouti, Egypt, Eritrea, Gambia, Guinea, Jordan, Kuwait, Lebanon, Libya, Maldives, Niger, Nigeria, Oman, Sierra Leone, Sudan, Syria, Sénégal, Tanzania, Tunisia, UAE (United Arab Emirates), West Bank and Gaza, Yemen
+Sep-05, Albania, Bangladesh, Brunei, Côte d'Ivoire, Ethiopia, Guyana, Indonesia, Iraq, Malaysia, Mali, Marshall Islands, Mauritania, Morocco, Pakistan, Somalia, Sri Lanka
+Sep-06, Brunei, Bulgaria, eSwatini, Sao Tome and Principe
+Sep-07, Brazil, Mozambique, Sri Lanka
+Sep-08, Andorra, Bulgaria, Fiji, Liechtenstein, Macedonia, Malta, Mozambique
+Sep-09, North Korea, Tajikistan
+Sep-10, Belize, Gibraltar, Iran
+Sep-11, Eritrea, Ethiopia
+Sep-12, Mali
+Sep-13, 
+Sep-14, Nicaragua
+Sep-15, Costa Rica, El Salvador, Guatemala, Honduras, Japan, Nicaragua, Slovakia
+Sep-16, Libya, Malaysia, Mexico, Papua New Guinea, Saint Kitts and Nevis
+Sep-17, Angola, Tonga
+Sep-18, Chile
+Sep-19, Chile, Nepal, Saint Kitts and Nevis
+Sep-20, Haiti
+Sep-21, Armenia, Belize, Cambodia, Ghana, Malta
+Sep-22, Belize, Bulgaria, Cambodia, Ghana, Mali, Nepal
+Sep-23, Bhutan, Cambodia, Israel, Japan, Saudi Arabia
+Sep-24, Cambodia, Dominican Republic, Guinea-Bissau, Israel, Maldives, South Africa, Trinidad and Tobago
+Sep-25, Mozambique, Nauru
+Sep-26, Marshall Islands, Yemen
+Sep-27, Eritrea, Ethiopia, Turkmenistan
+Sep-28, Czech Republic
+Sep-29, Nepal, Paraguay
+Sep-30, Botswana, Nepal, Sao Tome and Principe
+Oct-01, Botswana, China, Cyprus, Honduras, Hong Kong, Nepal, Nigeria, Palau, San Marino, Tuvalu, Ukraine, Uzbekistan
+Oct-02, Bangladesh, Bhutan, China, Guinea, Honduras, India, Israel, Nepal, Tuvalu
+Oct-03, China, Germany, Honduras, Iraq, Nepal, South Korea
+Oct-04, China, Honduras, Lesotho, Mozambique, Nepal
+Oct-05, China, Myanmar, Portugal, South Korea, Vanuatu
+Oct-06, China, China, Myanmar, North Korea, Saint Lucia, South Korea, Sri Lanka, Syria, Taiwan, Turkmenistan, Vanuatu
+Oct-07, China, Hong Kong, Israel, Myanmar, South Korea
+Oct-08, China, Peru, South Korea
+Oct-09, Egypt, South Korea, Uganda
+Oct-10, Cuba, Ecuador, Fiji, Kenya, Kiribati, North Korea, South Korea, Suriname, Taiwan
+Oct-11, Macedonia
+Oct-12, Argentina, Belize, Brazil, Chile, Equatorial Guinea, Spain, Venezuela
+Oct-13, American Samoa, Bahamas, Belize, Burundi, Canada, Colombia, Equatorial Guinea, Japan, Samoa, Thailand, 
+Oct-14, Georgia, Israel, Tanzania, Yemen
+Oct-15, Cambodia, Malawi
+Oct-16, 
+Oct-17, Haiti
+Oct-18, Zambia
+Oct-19, Grenada, 
+Oct-20, Guatemala, Guyana, Jamaica, Kenya, Malaysia, Mauritius, Nepal, Singapore, Sri Lanka, Trinidad and Tobago
+Oct-21, Burundi, Fiji, Myanmar, Nepal, Suriname
+Oct-22, Nepal
+Oct-23, Hungary, Libya, Macedonia, Nepal, Thailand
+Oct-24, Hungary, Micronesia (FSM), Nepal, Palau, Zambia
+Oct-25, Grenada, Kazakhstan
+Oct-26, Austria, Nauru
+Oct-27, Ireland (Eire), Kazakhstan, Nauru, Nepal, New Zealand, Saint Vincent and Grenadines
+Oct-28, Cyprus, Czech Republic, Greece, 
+Oct-29, Cambodia, Hong Kong, Türkiye
+Oct-30, 
+Oct-31, Burkina Faso, Chile, Philippines, Slovenia
+Nov-01, Algeria, Andorra, Antigua and Barbuda, Austria, Belgium, Bhutan, Burkina Faso, Burundi, Bénin, Cape Verde, Central African Republic, Chad, Chile, Congo (Republic), Croatia, Côte d'Ivoire, Timor-Leste, Finland, France, French Guiana (Guyane), French Polynesia, Gabon, Guatemala, Haiti, Holy See (Vatican City), Hungary, Italy, Liechtenstein, Lithuania, Luxembourg, Madagascar, Mauritius, Monaco, Peru, Philippines, Poland, Portugal, San Marino, Seychelles, Slovakia, Slovenia, Spain, Sweden, Sénégal, Togo, 
+Nov-02, Angola, Bolivia, Brazil, Timor-Leste, Ecuador, El Salvador, Haiti, Lithuania, Mauritius, Russia, San Marino
+Nov-03, Antigua and Barbuda, Colombia, Dominica, Timor-Leste, Ecuador, Japan, Maldives, Micronesia (FSM), Panama, Russia, Tonga
+Nov-04, Cambodia, Dominica, Ecuador, Myanmar, Russia
+Nov-05, Cambodia, Panama, Sri Lanka
+Nov-06, Cambodia, Liberia, Morocco, Tajikistan
+Nov-07, Belarus, 
+Nov-08, Azerbaijan
+Nov-09, Azerbaijan, Cambodia, Pakistan
+Nov-10, Angola, Azerbaijan, Dominican Republic, Panama
+Nov-11, American Samoa, Angola, Azerbaijan, Belgium, Bermuda, Bhutan, Bhutan, Canada, France, French Guiana (Guyane), French Polynesia, Maldives, Micronesia (FSM), Poland, Serbia, 
+Nov-12, Comoros, Timor-Leste
+Nov-13, Montenegro
+Nov-14, Guinea-Bissau, Montenegro, Myanmar
+Nov-15, Brazil, Côte d'Ivoire, West Bank and Gaza
+Nov-16, Chile, North Korea
+Nov-17, Colombia, Czech Republic, Latvia, Marshall Islands, Mexico, Slovakia
+Nov-18, Croatia, Haiti, Latvia, Morocco, Oman
+Nov-19, Belize, Monaco, Oman
+Nov-20, Brazil
+Nov-21, Argentina, Mongolia
+Nov-22, Albania, Lebanon
+Nov-23, Georgia, Japan, Micronesia (FSM)
+Nov-24, Albania, Argentina, Iran, Japan
+Nov-25, Suriname
+Nov-26, Mongolia, 
+Nov-27, American Samoa, Palau, Puerto Rico, USA (United States), 
+Nov-28, Albania, Chad, Congo (Republic), Timor-Leste, French Polynesia, Mauritania, Palau, Panama, 
+Nov-29, Albania, Liberia, Vanuatu
+Nov-30, Barbados, Philippines, Romania, Yemen
+Dec-01, Albania, Barbados, Central African Republic, Chad, Costa Rica, Portugal, Romania
+Dec-02, Laos, UAE (United Arab Emirates)
+Dec-03, UAE (United Arab Emirates)
+Dec-04, Sri Lanka
+Dec-05, Ghana, Marshall Islands, Thailand
+Dec-06, Finland, Spain, 
+Dec-07, Timor-Leste
+Dec-08, Albania, Andorra, Argentina, Austria, Chile, Colombia, Timor-Leste, Equatorial Guinea, Holy See (Vatican City), Italy, Liechtenstein, Macedonia, Malta, Monaco, Nicaragua, Panama, Paraguay, Peru, Philippines, Portugal, San Marino, Seychelles, Spain, Tonga, Uzbekistan
+Dec-09, Antigua and Barbuda, Peru, Tanzania
+Dec-10, Iraq, Namibia, Thailand
+Dec-11, Burkina Faso
+Dec-12, Kenya, Kiribati, Turkmenistan
+Dec-13, Malta, Saint Lucia
+Dec-14, Chile
+Dec-15, 
+Dec-16, Bahrain, Bangladesh, Kazakhstan, South Africa
+Dec-17, Bahrain, Bhutan, Tunisia
+Dec-18, Niger, Qatar
+Dec-19, Anguilla, Myanmar
+Dec-20, Panama, 
+Dec-21, Sao Tome and Principe
+Dec-22, Zimbabwe
+Dec-23, 
+Dec-24, Bulgaria, Czech Republic, Estonia, Hungary, Latvia, Libya, Lithuania, Philippines, Poland, Slovakia, South Sudan, Venezuela, 
+Dec-25, Albania, American Samoa, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Bahamas, Bangladesh, Barbados, Belarus, Belgium, Belize, Bermuda, Bolivia, Botswana, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Bénin, Cameroon, Canada, Cape Verde, Central African Republic, Chad, Chile, Colombia, Congo (DRC), Congo (Republic), Costa Rica, Croatia, Cuba, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Dominica, Dominican Republic, Timor-Leste, Ecuador, El Salvador, Estonia, eSwatini, Fiji, Finland, France, French Guiana (Guyane), French Polynesia, Gabon, Gambia, Germany, Ghana, Gibraltar, Greece, Greenland (Kalaallit Nunaat), Grenada, Guatemala, Guinea, Equatorial Guinea, Guinea-Bissau, Guyana, Haiti, Holy See (Vatican City), Honduras, Hong Kong, Hungary, Iceland, Indonesia, Iraq, Ireland (Eire), Italy, Jamaica, Jordan, Kenya, Kiribati, Kosovo, Latvia, Lebanon, Lesotho, Liberia, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Malaysia, Mali, Malta, Marshall Islands, Mauritius, Mexico, Micronesia (FSM), Moldova, Monaco, Mozambique, Myanmar, Namibia, Nauru, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Pakistan, Palau, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Portugal, Puerto Rico, Romania, Rwanda, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and Grenadines, Samoa, San Marino, Sao Tome and Principe, Seychelles, Sierra Leone, Singapore, Slovakia, Slovenia, Solomon Islands, South Africa, South Korea, South Sudan, Spain, Sri Lanka, Sudan, Suriname, Sweden, Switzerland, Syria, Sénégal, Tanzania, Togo, Tonga, Trinidad and Tobago, Tuvalu, Uganda, UK (United Kingdom), Ukraine, Uruguay, USA (United States), Vanuatu, Venezuela, West Bank and Gaza, Zambia, Zimbabwe, 
+Dec-26, Andorra, Angola, Anguilla, Antigua and Barbuda, Australia, Austria, Bahamas, Barbados, Belarus, Belize, Bermuda, Botswana, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Dominica, Estonia, eSwatini, Fiji, Finland, Gambia, Germany, Ghana, Gibraltar, Greece, Greenland (Kalaallit Nunaat), Grenada, Guyana, Holy See (Vatican City), Hong Kong, Hungary, Iceland, Ireland (Eire), Italy, Jamaica, Kenya, Kiribati, Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Malawi, Namibia, Nauru, Netherlands, New Zealand, Nigeria, Norway, Papua New Guinea, Poland, Romania, Rwanda, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and Grenadines, Samoa, San Marino, Sierra Leone, Slovakia, Slovenia, Solomon Islands, South Africa, South Sudan, Suriname, Sweden, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, UK (United Kingdom), Vanuatu, Zimbabwe, 
+Dec-27, North Korea
+Dec-28, 
+Dec-29, Cambodia, Mongolia
+Dec-30, Philippines
+Dec-31, Armenia, Azerbaijan, Cuba, Timor-Leste, Latvia, Philippines, Russia, Thailand, Venezuela

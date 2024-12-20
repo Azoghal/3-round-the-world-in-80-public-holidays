@@ -14,9 +14,11 @@ def main():
     # Example usage:
     filepath = "public_holidays_non_regional_cleaned.txt"  # Replace with your file path
 
-    date_map, country_set = parse.parse_country_data(filepath)
+    parse.reformat(filepath)
+
+    # date_map, country_set = parse.parse_country_data(filepath)
     
-    manual_filter_countries(country_set)
+    # manual_filter_countries(country_set)
 
     # wr
 
