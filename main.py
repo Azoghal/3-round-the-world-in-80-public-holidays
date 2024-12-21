@@ -12,31 +12,14 @@ import parse
 
 def main():
     # Example usage:
-    filepath = "public_holidays_non_regional_cleaned.txt"  # Replace with your file path
+    filepath = "public_holidays.txt"  # Replace with your file path
+    date_map, country_set = parse.parse_country_data(filepath)
 
-    parse.reformat(filepath)
+    # sanity check that the map is sensible
+    query_date=input("What date would you like to check? (MMM-DD) ")
+    print(f"Holidays: {date_map[query_date.lower()]}")
 
-    # date_map, country_set = parse.parse_country_data(filepath)
-    
-    # manual_filter_countries(country_set)
-
-    # wr
-
-def manual_filter_countries(country_set):
-    yes = set()
-    no = set()
-    if country_set is not None:
-        print(f"\n{len(country_set)} Unique Countries:")
-        # for country in country_set:
-        #     resp = input(f"Real country? {country} ")
-        #     if resp in ["y", "Y"]:
-        #         yes.update(country)
-        #     else:
-        #         no.update(country)
-        print("\n".join(country_set))
-
-    # print("the ones i don't believe in")
-    # print(no)
+    # do what we actually want to do
 
 if __name__ == "__main__":
     main()

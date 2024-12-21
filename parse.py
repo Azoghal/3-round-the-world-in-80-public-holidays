@@ -2,13 +2,19 @@ def parse_country_data(filepath):
     """
     Parses a file with date-country data and returns a dictionary and a set.
 
+    Expected format of file:
+    MMM-DD, <Countries>
+
+    For example:
+    Jun-03, Thailand, Uganda
+    
     Args:
         filepath: The path to the input file.
 
     Returns:
         A tuple containing:
-        - date_country_map: A dictionary where keys are dates (strings) and 
-          values are lists of countries (strings).
+        - date_country_map: A dictionary where keys are dates in format
+            MMM-DD, all lower case and values are lists of countries 
         - all_countries: A set of all unique countries (strings).
         Returns None, None if there is an error reading the file.
     """
@@ -24,15 +30,16 @@ def parse_country_data(filepath):
                     print(f"Error: bad number of parts: {len(line)}") 
                     return None, None
 
-                date_month = line_parts[0].strip()
-                date_day = line_parts[1].strip()
+                day_of_year = line_parts[0].strip()
 
-                countries = [country.strip() for country in line_parts[2:] if country != ""]
-                if len(countries) == 1 and countries[0]=="":
-                    countries = []
+                countries_part = line_parts[1]
+                countries = countries_part.split(",")
+                countries_stripped = [country.strip() for country in countries]
 
-                date_country_map[f"{date_month}-{date_day}"] = countries
-                all_countries.update(countries)
+                date_country_map[day_of_year.lower()] = countries_stripped
+                all_countries.update(countries_stripped)
+            
+            print(f"Number of days read: {len(date_country_map)}")
     except FileNotFoundError:
         print(f"Error: File not found: {filepath}")
         return None, None
@@ -41,29 +48,3 @@ def parse_country_data(filepath):
         return None, None
 
     return date_country_map, all_countries
-
-
-def reformat(filename):
-    try:
-        with open("reformated_"+filename, 'w') as output_file:
-            with open(filename, 'r', encoding='utf-8') as file:
-                for line in file:
-                    line_parts = line.split(",")
-                    if len(line_parts) < 2:
-                        print(f"Error: bad number of parts: {len(line)}") 
-                        return None, None
-
-                    date_month = line_parts[0].strip()
-                    date_day = line_parts[1].strip()
-
-                    countries = [country.strip() for country in line_parts[2:] if country != ""]
-                    if len(countries) == 1 and countries[0]=="":
-                        countries = []
-
-                    output_file.write(f"{date_month}-{int(date_day):02}, {', '.join(countries)}\n")
-    except FileNotFoundError:
-        print(f"Error: File not found: {filename}")
-        return 
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return 
