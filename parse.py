@@ -1,4 +1,6 @@
-def parse_country_data(filepath):
+from typing import Dict
+
+def parse_country_data(filepath: str) -> tuple[Dict[str, list[str]], set]:
     """
     Parses a file with date-country data and returns a dictionary and a set.
 
@@ -19,7 +21,7 @@ def parse_country_data(filepath):
         Returns None, None if there is an error reading the file.
     """
 
-    date_country_map = {}
+    countries_by_date = {}
     all_countries = set()
 
     try:
@@ -36,10 +38,10 @@ def parse_country_data(filepath):
                 countries = countries_part.split(",")
                 countries_stripped = [country.strip() for country in countries]
 
-                date_country_map[day_of_year.lower()] = countries_stripped
+                countries_by_date[day_of_year.lower()] = countries_stripped
                 all_countries.update(countries_stripped)
             
-            print(f"Number of days read: {len(date_country_map)}")
+            print(f"Number of days read: {len(countries_by_date)}")
     except FileNotFoundError:
         print(f"Error: File not found: {filepath}")
         return None, None
@@ -47,4 +49,4 @@ def parse_country_data(filepath):
         print(f"An error occurred: {e}")
         return None, None
 
-    return date_country_map, all_countries
+    return countries_by_date, all_countries

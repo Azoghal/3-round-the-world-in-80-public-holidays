@@ -8,18 +8,33 @@
 #   - and at first with edges between all nodes in adjacent dates
 #   
 
+# %%
+
 import parse
+import graph_builder
+import graph_drawer
+
+# %%
 
 def main():
     # Example usage:
     filepath = "public_holidays.txt"  # Replace with your file path
-    date_map, country_set = parse.parse_country_data(filepath)
+    countries_by_date, country_set = parse.parse_country_data(filepath)
 
     # sanity check that the map is sensible
-    query_date=input("What date would you like to check? (MMM-DD) ")
-    print(f"Holidays: {date_map[query_date.lower()]}")
+    # query_date=input("What date would you like to check? (MMM-DD) ")
+    # if query_date != "" and query_date != "n":
+    #     print(f"Holidays: {countries_by_date[query_date.lower()]}")
 
     # do what we actually want to do
+    graph = graph_builder.build_graph(countries_by_date)
+
+    print(f"node count: {graph.number_of_nodes()}")
+    print(f"edge count: {graph.number_of_edges()}")
+
+    graph_drawer.draw_graph_simple(graph)
 
 if __name__ == "__main__":
     main()
+
+# %%
